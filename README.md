@@ -7,8 +7,11 @@ Criei esse repositório para postar os projetos que estou desenvolvendo durante 
 Agradeço por acompanhar minha jornada de aprendizado em C, espero que esses projetos possam ser úteis para outros estudantes que também estão aprendendo C, fornecendo exemplos práticos e inspiração para seus próprios projetos.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Estou animado para compartilhar meus projetos e interagir com a comunidade, sintam-se a vontade para explorar o repositório, deixar comentários ou sugestões. (Criei um Issues aqui exclusivo para isso, chamado "Chat - Jornada de Aprendizado em C").
-<p> 
-
+<p>
+  
+- [Lista de Exercícios](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios.md)
+- [Chat - Jornada de Aprendizado em C](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/issues/1)
+  
 ##  Sobre o Autor:
 <img src="https://avatars.githubusercontent.com/u/130188340?s=200&u=83c9d36fc760730d693236248c76d9464e4b92fc&v=4" alt="Minha Foto" align="left" width="15%" height="15%" style="margin-right: 10px">
 
