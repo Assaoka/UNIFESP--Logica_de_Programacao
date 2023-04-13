@@ -6,7 +6,7 @@ Criei esse repositório para postar os projetos que estou desenvolvendo durante 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Agradeço por acompanhar minha jornada de aprendizado em C, espero que esses projetos possam ser úteis para outros estudantes que também estão aprendendo C, fornecendo exemplos práticos e inspiração para seus próprios projetos.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Estou animado para compartilhar meus projetos e interagir com a comunidade, sintam-se a vontade para explorar o repositório, deixar comentários ou sugestões.
+Estou animado para compartilhar meus projetos e interagir com a comunidade, sintam-se a vontade para explorar o repositório, deixar comentários ou sugestões. (Criei um Issues aqui exclusivo para isso, chamado "Chat - Jornada de Aprendizado em C").
 <p> 
 
 ##  Sobre o Autor:
