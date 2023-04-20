@@ -2,6 +2,7 @@
 🔹 Aula 1 - Sem exercícios, aula de introdução.
 <br>🔹 [Aula 2](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios.md#aula-2) (12/04/2023)
 <br>🔹 [Aula 3](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios.md#aula-3) (15/04/2023)
+<br>🔹 [Aula 3](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios.md#aula-31) (20/04/2023)
 
 ## Aula 2
 **1-) Faça um programa que lê o valor da cotação do dólar em um determinado dia e em seguida lê uma quantia em dólares. Realize a conversão para reais.**
@@ -57,3 +58,56 @@ Nome das Atividades:  "Média 2", "Salário" e "Idade em Dias".**
 |30|0 ano(s)<br>1 mes(es)<br>0 dia(s)|
 
 🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula3_Desafio_JoaoAssaoka.c)
+
+## Aula 3.1
+**1-) A professora Lilian usa a seguinte avaliação:**
+- **M1: é a média de duas provas (P1+P2/2);**
+- **M2: é a média de três trabalhos (T1+T2+T3/3);**
+- **M3: é a média de 30 exercícios (M3).**
+
+**Leia seis números (P1, P2, T1, T2, T3, M3) correspondente às notas de um aluno. Calcule as médias M1 e M2 e a NOTA FINAL com pesos 60%, 30% e 10%, respectivamente. Informe a nota final ao aluno.**
+
+🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula3.1_Ex1_JoaoAssaoka.c)
+
+### BeeCrowd: "Área", "Cédulas" e "Conversão de Tempo"
+
+**2-) Escreva um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em seguida, calcule e mostre:
+<br>a) a área do triângulo retângulo que tem A por base e C por altura.
+<br>b) a área do círculo de raio C. (pi = 3.14159)
+<br>c) a área do trapézio que tem A e B por bases e C por altura.
+<br>d) a área do quadrado que tem lado B.
+<br>e) a área do retângulo que tem lados A e B.
+<br><br>ENTRADA: O arquivo de entrada contém três valores com um dígito após o ponto decimal.
+<br><br>SAÍDA: O arquivo de saída deverá conter 5 linhas de dados. Cada linha corresponde a uma das áreas descritas acima, sempre com mensagem correspondente e um espaço entre os dois pontos e o valor. O valor calculado deve ser apresentado com 3 dígitos após o ponto decimal.
+<br><br>EXEMPLOS:**
+|Exemplos de Entrada|Exemplos de Saída|
+|--|--|
+|3.0<br>4.0<br>5.2|TRIANGULO: 7.800<br>CIRCULO: 84.949<br>TRAPEZIO: 18.200<br>QUADRADO: 16.000<br>RETANGULO: 12.000|
+|12.7<br>10.4<br>15.2|TRIANGULO: 96.520<br>CIRCULO: 725.833<br>TRAPEZIO: 175.560<br>QUADRADO: 108.160<br>RETANGULO: 132.080|
+
+🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula3.1_Ex2_JoaoAssaoka.c)
+
+**3-) Leia um valor inteiro. A seguir, calcule o menor número de notas possíveis (cédulas) no qual o valor pode ser decomposto. As notas consideradas são de 100, 50, 20, 10, 5, 2 e 1. A seguir mostre o valor lido e a relação de notas necessárias.
+<br><br>ENTRADA: O arquivo de entrada contém um valor inteiro N (0 < N < 1000000).
+<br><br>SAÍDA: Imprima o valor lido e, em seguida, a quantidade mínima de notas de cada tipo necessárias, conforme o exemplo fornecido. Não esqueça de imprimir o fim de linha após cada linha, caso contrário seu programa apresentará a mensagem: “Presentation Error”.
+<br><br>EXEMPLOS:**
+|Exemplos de Entrada|Exemplos de Saída|
+|--|--|
+|576|576<br>5 nota(s) de R$ 100,00<br>1 nota(s) de R$ 50,00<br>1 nota(s) de R$ 20,00<br>0 nota(s) de R$ 10,00<br>1 nota(s) de R$ 5,00<br>0 nota(s) de R$ 2,00<br>1 nota(s) de R$ 1,00|
+|11257|11257<br>112 nota(s) de R$ 100,00<br>1 nota(s) de R$ 50,00<br>0 nota(s) de R$ 20,00<br>0 nota(s) de R$ 10,00<br>1 nota(s) de R$ 5,00<br>1 nota(s) de R$ 2,00<br>0 nota(s) de R$ 1,00|
+
+🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula3.1_Ex3_JoaoAssaoka.c)
+
+**4-) Leia um valor inteiro, que é o tempo de duração em segundos de um determinado evento em uma fábrica, e informe-o expresso no formato horas:minutos:segundos.
+<br><br>ENTRADA: O arquivo de entrada contém um valor inteiro N.
+<br><br>SAÍDA: IImprima o tempo lido no arquivo de entrada (segundos), convertido para horas:minutos:segundos, conforme exemplo fornecido.
+<br><br>EXEMPLOS:**
+|Exemplos de Entrada|Exemplos de Saída|
+|--|--|
+|556|0:9:16|
+|1|0:0:1|
+|140153|38:55:53|
+
+🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula3.1_Ex4_JoaoAssaoka.c)
+
+obs: A partir da proxima aula passarei a postar apenas o link das questões do beecrowd, com o objetivo de facilitar a leitura.
