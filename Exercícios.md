@@ -4,6 +4,7 @@
 <br>🔹 [Aula 3](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios.md#aula-3) (15/04/2023)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Aula 3.1](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios.md#aula-31) (20/04/2023)
 <br>🔹 [Aula 4](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios.md#aula-4) (25/04/2023)
+<br>🔹 [Aula 4](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios.md#aula-5) (28/04/2023)
 
 ## Aula 2
 1-) Faça um programa que lê o valor da cotação do dólar em um determinado dia e em seguida lê uma quantia em dólares. Realize a conversão para reais.
@@ -136,6 +137,7 @@ obs: A partir da proxima aula passarei a postar apenas o link das questões do b
 🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula4_Ex2_JoaoAssaoka.c)
 
 ## Aula 5
+### BeeCrowd:
 1-) [Teste de Seleção 1](https://www.beecrowd.com.br/judge/pt/problems/view/1035)
 <br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula5_Ex1_JoaoAssaoka.c)
 
