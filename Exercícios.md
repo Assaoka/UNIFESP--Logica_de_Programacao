@@ -134,3 +134,13 @@ obs: A partir da proxima aula passarei a postar apenas o link das questões do b
 <br>Delta = b^2 - 4ac
 
 🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula4_Ex2_JoaoAssaoka.c)
+
+## Aula 5
+1-) [Teste de Seleção 1](https://www.beecrowd.com.br/judge/pt/problems/view/1035)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula5_Ex1_JoaoAssaoka.c)
+
+2-) [Lanche](https://www.beecrowd.com.br/judge/pt/problems/view/1038)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula5_Ex2_JoaoAssaoka.c)
+
+3-) [Tipos de Triângulos](https://www.beecrowd.com.br/judge/pt/problems/view/1045)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula5_Ex3_JoaoAssaoka.c)
