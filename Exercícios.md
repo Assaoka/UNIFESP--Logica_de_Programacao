@@ -130,7 +130,7 @@ obs: A partir da proxima aula passarei a postar apenas o link das questões do b
 
 🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula4_Ex1_JoaoAssaoka.c)
 
-2-) Faça um programa que encontre as raízes reais de uma equação do segundo grau na forma: ax2 + bx + c = 0. Implemente o cálculo das raízes como uma função e considere os casos em que delta é igual a zero, maior que zero e menor que zero.
+2-) Faça um programa que encontre as raízes de uma equação do segundo grau na forma: ax2 + bx + c = 0. Implemente o cálculo das raízes como uma função e considere os casos em que delta é igual a zero, maior que zero e menor que zero.
 <br>x = (-b +- raiz(Delta))/2a
 <br>Delta = b^2 - 4ac
 
