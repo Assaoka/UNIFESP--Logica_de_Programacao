@@ -2,9 +2,10 @@
 🔹 Aula 1 - Sem exercícios, aula de introdução.
 <br>🔹 [Aula 2](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios.md#aula-2) (12/04/2023)
 <br>🔹 [Aula 3](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios.md#aula-3) (15/04/2023)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Aula 3.1](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios.md#aula-31) (20/04/2023)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🔸 [Aula 3.1](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios.md#aula-31) (20/04/2023)
 <br>🔹 [Aula 4](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios.md#aula-4) (25/04/2023)
 <br>🔹 [Aula 5](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios.md#aula-5) (28/04/2023)
+<br>🔹 [Aula 6](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios.md#aula-6) (03/05/2023)
 
 ## Aula 2
 1-) Faça um programa que lê o valor da cotação do dólar em um determinado dia e em seguida lê uma quantia em dólares. Realize a conversão para reais.
@@ -146,3 +147,5 @@ obs: A partir da proxima aula passarei a postar apenas o link das questões do b
 
 3-) [Tipos de Triângulos](https://www.beecrowd.com.br/judge/pt/problems/view/1045)
 <br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula5_Ex3_JoaoAssaoka.c)
+
+## Aula 6
