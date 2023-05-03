@@ -149,3 +149,8 @@ obs: A partir da proxima aula passarei a postar apenas o link das questões do b
 <br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula5_Ex3_JoaoAssaoka.c)
 
 ## Aula 6
+1-) Suponha que dois jogadores irão fazer a seguinte disputa:
+<br>Jogar uma moeda 10 vezes. Quando der cara o jogador1 faz um ponto. Quando der coroa o jogador2 faz um ponto.
+<br>Faça um programa que simule 10 jogadas com a função rand(), considere que 0 é cara e 1 é coroa.
+<br>No final indique o jogador vencedor. 
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula6_Ex1_JoaoAssaoka.c)
