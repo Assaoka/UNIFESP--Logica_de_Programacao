@@ -154,3 +154,6 @@ obs: A partir da proxima aula passarei a postar apenas o link das questões do b
 <br>Faça um programa que simule 10 jogadas com a função rand(), considere que 0 é cara e 1 é coroa.
 <br>No final indique o jogador vencedor. 
 <br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula6_Ex1_JoaoAssaoka.c)
+
+2-) Escreva um programa que pergunta um número ao usuário, e mostra sua tabuada completa (de 1 até 10).
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula6_Ex2_JoaoAssaoka.c)
