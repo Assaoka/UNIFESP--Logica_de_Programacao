@@ -157,3 +157,6 @@ obs: A partir da proxima aula passarei a postar apenas o link das questões do b
 
 2-) Escreva um programa que pergunta um número ao usuário, e mostra sua tabuada completa (de 1 até 10).
 <br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula6_Ex2_JoaoAssaoka.c)
+
+3-) Um determinado material perde metade de sua massa a cada 30 segundos. Dada a massa inicial informada pelo usuário, em gramas, fazer um programa em C que calcule o tempo necessário para que essa massa se torne menor que 1 grama. O programa em C deve escrever a massa inicial, a massa final e o tempo calculado em horas, minutos e segundos.
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula6_Ex3_JoaoAssaoka.c)
