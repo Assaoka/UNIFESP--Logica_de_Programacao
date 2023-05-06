@@ -6,6 +6,7 @@
 <br>🔹 [Aula 4](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios.md#aula-4) (25/04/2023)
 <br>🔹 [Aula 5](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios.md#aula-5) (28/04/2023)
 <br>🔹 [Aula 6](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios.md#aula-6) (03/05/2023)
+<br>🔹 [Aula 7](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios.md#aula-7) (05/05/2023)
 
 ## Aula 2
 1-) Faça um programa que lê o valor da cotação do dólar em um determinado dia e em seguida lê uma quantia em dólares. Realize a conversão para reais.
@@ -160,3 +161,14 @@ obs: A partir da proxima aula passarei a postar apenas o link das questões do b
 
 3-) Um determinado material perde metade de sua massa a cada 30 segundos. Dada a massa inicial informada pelo usuário, em gramas, fazer um programa em C que calcule o tempo necessário para que essa massa se torne menor que 1 grama. O programa em C deve escrever a massa inicial, a massa final e o tempo calculado em horas, minutos e segundos.
 <br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula6_Ex3_JoaoAssaoka.c)
+
+## Aula 7
+### BeeCrowd:
+1-) [PUM](https://www.beecrowd.com.br/judge/pt/problems/view/1142)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula7_Ex1_JoaoAssaoka.c)
+
+2-) [Sequências Crescentes](https://www.beecrowd.com.br/judge/pt/problems/view/1146)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula7_Ex2_JoaoAssaoka.c)
+
+3-) [Fibonacci Fácil](https://www.beecrowd.com.br/judge/pt/problems/view/1151)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula7_Ex3_JoaoAssaoka.c)
