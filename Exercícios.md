@@ -7,6 +7,7 @@
 <br>🔹 [Aula 5](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios.md#aula-5) (28/04/2023)
 <br>🔹 [Aula 6](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios.md#aula-6) (03/05/2023)
 <br>🔹 [Aula 7](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios.md#aula-7) (05/05/2023)
+<br>🔹 [Aula 8](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios.md#aula-8) (10/05/2023)
 
 ## Aula 2
 1-) Faça um programa que lê o valor da cotação do dólar em um determinado dia e em seguida lê uma quantia em dólares. Realize a conversão para reais.
@@ -172,3 +173,5 @@ obs: A partir da proxima aula passarei a postar apenas o link das questões do b
 
 3-) [Fibonacci Fácil](https://www.beecrowd.com.br/judge/pt/problems/view/1151)
 <br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula7_Ex3_JoaoAssaoka.c)
+
+## Aula 8
