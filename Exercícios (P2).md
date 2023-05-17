@@ -19,4 +19,5 @@
 <br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula8_Ex3_JoaoAssaoka.c)
 
 ## Aula 9
-1-)
+1-) Mostre com o teste de mesa o resultado das seguintes operações:
+
