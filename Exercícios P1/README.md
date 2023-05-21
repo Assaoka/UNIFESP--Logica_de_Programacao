@@ -1,13 +1,13 @@
 # Exercícios
 🔹 Aula 1 - Sem exercícios, aula de introdução.
-<br>🔹 [Aula 2](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/P1%20-%20Aula%201%20a%207#aula-2) (12/04/2023)
-<br>🔹 [Aula 3](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/P1%20-%20Aula%201%20a%207#aula-3) (15/04/2023)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;🔸 [Aula 3.1](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/P1%20-%20Aula%201%20a%207#aula-31) (20/04/2023)
-<br>🔹 [Aula 4](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/P1%20-%20Aula%201%20a%207#aula-4) (25/04/2023)
-<br>🔹 [Aula 5](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/P1%20-%20Aula%201%20a%207#aula-5) (28/04/2023)
-<br>🔹 [Aula 6](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/P1%20-%20Aula%201%20a%207#aula-6) (03/05/2023)
-<br>🔹 [Aula 7](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/P1%20-%20Aula%201%20a%207#aula-7) (05/05/2023)
-<br>🔹 [Prova 1](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/P1%20-%20Aula%201%20a%207#prova-1) (10/05/2023)
+<br>🔹 [Aula 2](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P1#aula-2) (12/04/2023)
+<br>🔹 [Aula 3](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P1#aula-3) (15/04/2023)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🔸 [Aula 3.1](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P1#aula-31) (20/04/2023)
+<br>🔹 [Aula 4](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P1#aula-4) (25/04/2023)
+<br>🔹 [Aula 5](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P1#aula-5) (28/04/2023)
+<br>🔹 [Aula 6](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P1#aula-6) (03/05/2023)
+<br>🔹 [Aula 7](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P1#aula-7) (05/05/2023)
+<br>🔹 [Prova 1](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P1#prova-1) (10/05/2023)
 
 ## Aula 2
 1-) Faça um programa que lê o valor da cotação do dólar em um determinado dia e em seguida lê uma quantia em dólares. Realize a conversão para reais.
