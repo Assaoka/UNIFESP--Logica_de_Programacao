@@ -11,17 +11,17 @@
 
 ## Aula 2
 1-) Faça um programa que lê o valor da cotação do dólar em um determinado dia e em seguida lê uma quantia em dólares. Realize a conversão para reais.
-<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula2_Ex1_JoaoAssaoka.c)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P1/Aula2_Ex1_JoaoAssaoka.c)
 
 2-) Ler dois valores para as variáveis A e B e efetue a troca dos valores de forma que a variável A passe a possuir o valor da variável B e a variável B passe a possuir o valor da variável A. Apresente os valores trocados.
-<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula2_Ex2_JoaoAssaoka.c)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P1/Aula2_Ex2_JoaoAssaoka.c)
 
 3-) Leia um valor inteiro e apresente os resultados do quadrado, do cubo e da raiz quadrada do valor lido.
-<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula2_Ex3_JoaoAssaoka.c)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P1/Aula2_Ex3_JoaoAssaoka.c)
 
 4-) Receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre a idade dessa pessoa e quantos anos ela terá em 2050.
-<br>🔹 [Primeira Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula2_Ex4_JoaoAssaoka.c)
-<br>🔹 [Resolução Aprimorada](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula2_Ex4_V2_JoaoAssaoka.c)
+<br>🔹 [Primeira Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P1/Aula2_Ex4_JoaoAssaoka.c)
+<br>🔹 [Resolução Aprimorada](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P1/Aula2_Ex4_V2_JoaoAssaoka.c)
 
 ## Aula 3
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Está aula foi feita no [BeeCrowd](https://www.beecrowd.com.br/), então todas as questões podem ser encontradas [aqui](https://www.beecrowd.com.br/judge/pt/problems/index/1), mas irei anexar as questões aqui para facilitar para os leitores.
@@ -37,7 +37,7 @@ Nome das Atividades:  "Média 2", "Salário" e "Idade em Dias".
 |5.0<br>10.0<br>10.0|MEDIA = 9.0|
 |10.0<br>10.0<br>5.0|MEDIA = 7.5|
 
-🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula3_Ex1_JoaoAssaoka.c)
+🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P1/Aula3_Ex1_JoaoAssaoka.c)
 
 <br>2-) Escreva um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por hora e calcula o salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com duas casas decimais.
 <br><br>ENTRADA: O arquivo de entrada contém 2 números inteiros e 1 número com duas casas decimais, representando o número, quantidade de horas trabalhadas e o valor que o funcionário recebe por hora trabalhada, respectivamente.
@@ -49,7 +49,7 @@ Nome das Atividades:  "Média 2", "Salário" e "Idade em Dias".
 |1<br>200<br>20.50|NUMBER = 1<br>SALARY = U$ 4100.00|
 |6<br>145<br>15.55|NUMBER = 6<br>SALARY = U$ 2254.75|
 
-🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula3_Ex2_JoaoAssaoka.c)
+🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P1/Aula3_Ex2_JoaoAssaoka.c)
 
 
 <br>DESAFIO-) Leia um valor inteiro correspondente à idade de uma pessoa em dias e informe-a em anos, meses e dias. Obs.: apenas para facilitar o cálculo, considere todo ano com 365 dias e todo mês com 30 dias. Nos casos de teste nunca haverá uma situação que permite 12 meses e alguns dias, como 360, 363 ou 364. Este é apenas um exercício com objetivo de testar raciocínio matemático simples.
@@ -62,7 +62,7 @@ Nome das Atividades:  "Média 2", "Salário" e "Idade em Dias".
 |800|2 ano(s)<br>2 mes(es)<br>10 dia(s)|
 |30|0 ano(s)<br>1 mes(es)<br>0 dia(s)|
 
-🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula3_Desafio_JoaoAssaoka.c)
+🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P1/Aula3_Desafio_JoaoAssaoka.c)
 
 ## Aula 3.1
 1-) A professora Lilian usa a seguinte avaliação:
@@ -72,7 +72,7 @@ Nome das Atividades:  "Média 2", "Salário" e "Idade em Dias".
 
 Leia seis números (P1, P2, T1, T2, T3, M3) correspondente às notas de um aluno. Calcule as médias M1 e M2 e a NOTA FINAL com pesos 60%, 30% e 10%, respectivamente. Informe a nota final ao aluno.
 
-🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula3.1_Ex1_JoaoAssaoka.c)
+🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P1/Aula3.1_Ex1_JoaoAssaoka.c)
 
 ### BeeCrowd: "Área", "Cédulas" e "Conversão de Tempo"
 
@@ -90,7 +90,7 @@ Leia seis números (P1, P2, T1, T2, T3, M3) correspondente às notas de um aluno
 |3.0<br>4.0<br>5.2|TRIANGULO: 7.800<br>CIRCULO: 84.949<br>TRAPEZIO: 18.200<br>QUADRADO: 16.000<br>RETANGULO: 12.000|
 |12.7<br>10.4<br>15.2|TRIANGULO: 96.520<br>CIRCULO: 725.833<br>TRAPEZIO: 175.560<br>QUADRADO: 108.160<br>RETANGULO: 132.080|
 
-🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula3.1_Ex2_JoaoAssaoka.c)
+🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P1/Aula3.1_Ex2_JoaoAssaoka.c)
 
 3-) Leia um valor inteiro. A seguir, calcule o menor número de notas possíveis (cédulas) no qual o valor pode ser decomposto. As notas consideradas são de 100, 50, 20, 10, 5, 2 e 1. A seguir mostre o valor lido e a relação de notas necessárias.
 <br><br>ENTRADA: O arquivo de entrada contém um valor inteiro N (0 < N < 1000000).
@@ -101,7 +101,7 @@ Leia seis números (P1, P2, T1, T2, T3, M3) correspondente às notas de um aluno
 |576|576<br>5 nota(s) de R$ 100,00<br>1 nota(s) de R$ 50,00<br>1 nota(s) de R$ 20,00<br>0 nota(s) de R$ 10,00<br>1 nota(s) de R$ 5,00<br>0 nota(s) de R$ 2,00<br>1 nota(s) de R$ 1,00|
 |11257|11257<br>112 nota(s) de R$ 100,00<br>1 nota(s) de R$ 50,00<br>0 nota(s) de R$ 20,00<br>0 nota(s) de R$ 10,00<br>1 nota(s) de R$ 5,00<br>1 nota(s) de R$ 2,00<br>0 nota(s) de R$ 1,00|
 
-🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula3.1_Ex3_JoaoAssaoka.c)
+🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P1/Aula3.1_Ex3_JoaoAssaoka.c)
 
 4-) Leia um valor inteiro, que é o tempo de duração em segundos de um determinado evento em uma fábrica, e informe-o expresso no formato horas:minutos:segundos.
 <br><br>ENTRADA: O arquivo de entrada contém um valor inteiro N.
@@ -113,7 +113,7 @@ Leia seis números (P1, P2, T1, T2, T3, M3) correspondente às notas de um aluno
 |1|0:0:1|
 |140153|38:55:53|
 
-🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula3.1_Ex4_JoaoAssaoka.c)
+🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P1/Aula3.1_Ex4_JoaoAssaoka.c)
 
 obs: A partir da proxima aula passarei a postar apenas o link das questões do beecrowd, com o objetivo de facilitar a leitura.
 
@@ -131,48 +131,48 @@ obs: A partir da proxima aula passarei a postar apenas o link das questões do b
 |31|Belo Horizonte|
 |999|DDD não cadastrado!|
 
-🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula4_Ex1_JoaoAssaoka.c)
+🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P1/Aula4_Ex1_JoaoAssaoka.c)
 
 2-) Faça um programa que encontre as raízes de uma equação do segundo grau na forma: ax2 + bx + c = 0. Implemente o cálculo das raízes como uma função e considere os casos em que delta é igual a zero, maior que zero e menor que zero.
 <br>x = (-b +- raiz(Delta))/2a
 <br>Delta = b^2 - 4ac
 
-🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula4_Ex2_JoaoAssaoka.c)
+🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P1/Aula4_Ex2_JoaoAssaoka.c)
 
 ## Aula 5
 ### BeeCrowd:
 1-) [Teste de Seleção 1](https://www.beecrowd.com.br/judge/pt/problems/view/1035)
-<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula5_Ex1_JoaoAssaoka.c)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P1/Aula5_Ex1_JoaoAssaoka.c)
 
 2-) [Lanche](https://www.beecrowd.com.br/judge/pt/problems/view/1038)
-<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula5_Ex2_JoaoAssaoka.c)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P1/Aula5_Ex2_JoaoAssaoka.c)
 
 3-) [Tipos de Triângulos](https://www.beecrowd.com.br/judge/pt/problems/view/1045)
-<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula5_Ex3_JoaoAssaoka.c)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P1/Aula5_Ex3_JoaoAssaoka.c)
 
 ## Aula 6
 1-) Suponha que dois jogadores irão fazer a seguinte disputa:
 <br>Jogar uma moeda 10 vezes. Quando der cara o jogador1 faz um ponto. Quando der coroa o jogador2 faz um ponto.
 <br>Faça um programa que simule 10 jogadas com a função rand(), considere que 0 é cara e 1 é coroa.
 <br>No final indique o jogador vencedor. 
-<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula6_Ex1_JoaoAssaoka.c)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P1/Aula6_Ex1_JoaoAssaoka.c)
 
 2-) Escreva um programa que pergunta um número ao usuário, e mostra sua tabuada completa (de 1 até 10).
-<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula6_Ex2_JoaoAssaoka.c)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P1/Aula6_Ex2_JoaoAssaoka.c)
 
 3-) Um determinado material perde metade de sua massa a cada 30 segundos. Dada a massa inicial informada pelo usuário, em gramas, fazer um programa em C que calcule o tempo necessário para que essa massa se torne menor que 1 grama. O programa em C deve escrever a massa inicial, a massa final e o tempo calculado em horas, minutos e segundos.
-<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula6_Ex3_JoaoAssaoka.c)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P1/Aula6_Ex3_JoaoAssaoka.c)
 
 ## Aula 7
 ### BeeCrowd:
 1-) [PUM](https://www.beecrowd.com.br/judge/pt/problems/view/1142)
-<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula7_Ex1_JoaoAssaoka.c)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P1/Aula7_Ex1_JoaoAssaoka.c)
 
 2-) [Sequências Crescentes](https://www.beecrowd.com.br/judge/pt/problems/view/1146)
-<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula7_Ex2_JoaoAssaoka.c)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P1/Aula7_Ex2_JoaoAssaoka.c)
 
 3-) [Fibonacci Fácil](https://www.beecrowd.com.br/judge/pt/problems/view/1151)
-<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Aula7_Ex3_JoaoAssaoka.c)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P1/Aula7_Ex3_JoaoAssaoka.c)
 
 ## Prova 1
 Aguardando Resultados.
