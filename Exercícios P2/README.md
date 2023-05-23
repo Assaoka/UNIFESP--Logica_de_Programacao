@@ -1,5 +1,5 @@
 # Exercícios
-🔸 [Aula 1 a P1](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20(P1).md) (12/04/2023 a 10/05/2023)
+🔸 [Aula 1 a P1](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P1) (12/04/2023 a 10/05/2023)
 <br>🔹 [Aula 8](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20(P2).md#aula-8) (12/05/2023)
 <br>🔹 [Aula 9](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20(P2).md#aula-9) (17/05/2023)
 
