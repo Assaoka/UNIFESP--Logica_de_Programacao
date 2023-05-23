@@ -24,6 +24,17 @@
 
 
 ## Aula 9
-Esperando correção.
+Em breve...
+
+
 
 ## Aula 10
+### BeeCrowd:
+1-) [Preenchimento de Vetor I](https://www.beecrowd.com.br/judge/pt/problems/view/1173)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula10_Ex1_JoaoAssaoka.c)
+
+2-) [Troca em Vetor I](https://www.beecrowd.com.br/judge/pt/problems/view/1175)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula10_Ex2_JoaoAssaoka.c)
+
+3-) [Fila do Recreio](https://www.beecrowd.com.br/judge/pt/problems/view/1548)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula10_Ex3_JoaoAssaoka.c)
