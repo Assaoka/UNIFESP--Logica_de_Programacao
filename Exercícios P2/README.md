@@ -1,9 +1,10 @@
 # Exercícios
 🔸 [Aula 1 a P1](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P1) (12/04/2023 a 10/05/2023)
-<br>🔹 [Aula 8](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20(P2).md#aula-8) (12/05/2023)
-<br>🔹 [Aula 9](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20(P2).md#aula-9) (17/05/2023)
-<br>🔹 [Aula 10](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20(P2).md#aula-10) (19/05/2023)
-
+<br>🔹 [Aula 8](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P2#aula-8) (12/05/2023)
+<br>🔹 [Aula 9](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20(P2)#aula-9) (17/05/2023)
+<br>🔹 [Aula 10](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20(P2)#aula-10) (19/05/2023)
+<br>🔹 [Aula 11](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20(P2)#aula-11) (24/05/2023)
+<br>🔹 [Aula 12](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20(P2)#aula-12) (26/05/2023)
 
 
 ## Aula 8
@@ -38,3 +39,19 @@ Em breve...
 
 3-) [Fila do Recreio](https://www.beecrowd.com.br/judge/pt/problems/view/1548)
 <br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula10_Ex3_JoaoAssaoka.c)
+
+
+
+## Aula 11
+1-) Escreva um programa que, dadas duas matrizes Am×n e Bm×n, calcula a matriz Cm×n que é a soma de A e B. Note que, para ler as matrizes, é necessário primeiro ler os seus tamanhos m,n.
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula11_Ex1_JoaoAssaoka.c)
+
+2-) Escreva um programa que, dadas duas matrizes Am×n e Bn×p, calcula a matriz Dm×p que é o produto de A por B. Note que, para ler as matrizes, é necessário primeiro ler os seus tamanhos m,n, e p.
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula11_Ex2_JoaoAssaoka.c)
+
+3-) Use comando de repetição para desenhar na tela um retângulo de 60 colunas e 10 linhas, sendo que a borda deste retângulo será formada pelo caractere ‘+’. Lembre que somente a primeira e última linha deverão ter todas as colunas preenchidas com o caractere ‘+’. As demais linhas (entre 2 e 9) só terão as colunas 1 e 60 preenchidas. 
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula11_Ex3_JoaoAssaoka.c)
+
+
+
+## Aula 11
