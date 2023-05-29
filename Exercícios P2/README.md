@@ -55,3 +55,12 @@ Em breve...
 
 
 ## Aula 12
+### BeeCrowd:
+1-) [Acima da Diagonal Principal](https://www.beecrowd.com.br/judge/pt/problems/view/1183)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula12_Ex1_JoaoAssaoka.c)
+
+2-) [Troca em Vetor I](https://www.beecrowd.com.br/judge/pt/problems/view/1175)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula12_Ex2_JoaoAssaoka.c)
+
+3-) [Fila do Recreio](https://www.beecrowd.com.br/judge/pt/problems/view/1548)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula12_Ex3_JoaoAssaoka.c)
