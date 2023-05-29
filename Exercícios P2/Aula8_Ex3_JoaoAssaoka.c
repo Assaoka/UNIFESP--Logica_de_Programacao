@@ -1,3 +1,4 @@
+// 3-) Dada uma sequência de n números inteiros, imprimi-los sem repetições. (Exemplo: para n = 10 e a sequencia 1, 3, 5, 1, 10, 1, 5, 8, 2, 10 o programa deve imprimir a saída 1, 3, 5, 10, 8, 2)
 #include <stdio.h>
 #include <locale.h>
 
