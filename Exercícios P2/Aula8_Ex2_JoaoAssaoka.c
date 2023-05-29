@@ -1,3 +1,7 @@
+/* 2-) Faça um algoritmo para ler e armazenar em um vetor a temperatura de todos os dias da semana. Calcule:
+   - Menor temperatura da semana
+   - Maior temperatura da semana
+   - Temperatura média semanal */
 #include <stdio.h>
 
 int main(void) {
