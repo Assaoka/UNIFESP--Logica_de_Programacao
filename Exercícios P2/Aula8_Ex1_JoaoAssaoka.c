@@ -1,3 +1,6 @@
+/* 1-) Leia dois vetores A e B (de tamanho 10 cada um). Depois faça duas funções que calcule:
+   - A soma dos elementos do vetor A com os do vetor B (respeitando as mesmas posições) e escrever o resultado em um vetor Soma.
+   - A subtração dos elementos do vetor A com os do vetor B (respeitando as mesmas posições) e escrever o resultado em um vetor Subtracao. */
 #include <stdio.h>
 
 int main() {
