@@ -62,5 +62,5 @@ Em breve...
 2-) [Abaixo da Diagonal Secundária](https://www.beecrowd.com.br/judge/pt/problems/view/1186)
 <br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula12_Ex2_JoaoAssaoka.c)
 
-3-) [Fila do Recreio](https://www.beecrowd.com.br/judge/pt/problems/view/1548)
+3-) [Matriz Quadrada II](https://www.beecrowd.com.br/judge/pt/problems/view/1478)
 <br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula12_Ex3_JoaoAssaoka.c)
