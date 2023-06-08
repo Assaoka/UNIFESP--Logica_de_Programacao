@@ -58,10 +58,10 @@ Em breve...
 ## Aula 11.1
 ### BeeCrowd:
 1-) [Acima da Diagonal Principal](https://www.beecrowd.com.br/judge/pt/problems/view/1183)
-<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula11.1_Ex1_JoaoAssaoka.c)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula011.1_Ex1_JoaoAssaoka.c)
 
 2-) [Abaixo da Diagonal Secundária](https://www.beecrowd.com.br/judge/pt/problems/view/1186)
-<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula11.1_Ex2_JoaoAssaoka.c)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula011.1_Ex2_JoaoAssaoka.c)
 
 3-) [Matriz Quadrada II](https://www.beecrowd.com.br/judge/pt/problems/view/1478)
-<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula11.1_Ex3_JoaoAssaoka.c)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula011.1_Ex3_JoaoAssaoka.c)
