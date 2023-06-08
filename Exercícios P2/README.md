@@ -4,7 +4,7 @@
 <br>🔹 [Aula 9](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/README.md#aula-9) (17/05/2023)
 <br>🔹 [Aula 10](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/README.md#aula-10) (19/05/2023)
 <br>🔹 [Aula 11](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/README.md#aula-11) (24/05/2023)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Aula 3.1](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P2/README.md#aula-111) (26/05/2023)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Aula 11.1](Exerc%C3%ADcios%20P2/README.md#aula-11) (26/05/2023)
 <br>🔹 [Aula 12](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/README.md#aula-12) (26/05/2023)
 
 
