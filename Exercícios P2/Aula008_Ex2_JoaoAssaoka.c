@@ -2,6 +2,7 @@
    - Menor temperatura da semana
    - Maior temperatura da semana
    - Temperatura média semanal */
+
 #include <stdio.h>
 
 int main(void) {
