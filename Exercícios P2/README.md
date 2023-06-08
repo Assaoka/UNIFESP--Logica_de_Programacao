@@ -4,6 +4,7 @@
 <br>🔹 [Aula 9](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/README.md#aula-9) (17/05/2023)
 <br>🔹 [Aula 10](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/README.md#aula-10) (19/05/2023)
 <br>🔹 [Aula 11](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/README.md#aula-11) (24/05/2023)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Aula 3.1](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P2/README.md#aula-111) (26/05/2023)
 <br>🔹 [Aula 12](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/README.md#aula-12) (26/05/2023)
 
 
@@ -54,13 +55,13 @@ Em breve...
 
 
 
-## Aula 12
+## Aula 11.1
 ### BeeCrowd:
 1-) [Acima da Diagonal Principal](https://www.beecrowd.com.br/judge/pt/problems/view/1183)
-<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula12_Ex1_JoaoAssaoka.c)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula11.1_Ex1_JoaoAssaoka.c)
 
 2-) [Abaixo da Diagonal Secundária](https://www.beecrowd.com.br/judge/pt/problems/view/1186)
-<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula12_Ex2_JoaoAssaoka.c)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula11.1_Ex2_JoaoAssaoka.c)
 
 3-) [Matriz Quadrada II](https://www.beecrowd.com.br/judge/pt/problems/view/1478)
-<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula12_Ex3_JoaoAssaoka.c)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula11.1_Ex3_JoaoAssaoka.c)
