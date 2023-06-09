@@ -10,8 +10,8 @@ Estou animado para compartilhar meus projetos e interagir com a comunidade, sint
 <p>
 
 <br>🔹 Lista de Exercícios:
-<br>&nbsp;&nbsp;&nbsp;&nbsp;🔸 [Exercícios P1](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P1) (12/04/2023 a 10/05/2023)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;🔸 [Exercícios P2](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P2) (12/05/2023 a ...)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🔸 [Exercícios P1](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P1#exerc%C3%ADcios) (12/04/2023 a 10/05/2023)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🔸 [Exercícios P2](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P2#exerc%C3%ADcios) (12/05/2023 a ...)
 <br>🔹 [Chat - Jornada de Aprendizado em C](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/issues/1)
   
 ##  Sobre o Autor:
