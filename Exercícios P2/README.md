@@ -10,14 +10,14 @@
 
 ## Aula 8
 1-) Leia dois vetores A e B (de tamanho 10 cada um).  Depois faça duas funções que calcule:
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- A soma dos elementos do vetor A com os do vetor B (respeitando as mesmas posições) e escrever  o resultado em um vetor Soma.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A soma dos elementos do vetor A com os do vetor B (respeitando as mesmas posições) e escrever  o resultado em um vetor Soma.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- A subtração dos elementos do vetor A com os do vetor B (respeitando as mesmas posições) e escrever  o resultado em um vetor Subtracao.
 <br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula008_Ex1_JoaoAssaoka.c)
 
 2-) Faça um algoritmo para ler e armazenar em um vetor a temperatura de todos os dias da semana. Calcule:
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Menor temperatura da semana
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Maior temperatura da semana
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Temperatura média semanal
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❄ Menor temperatura da semana
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌞 Maior temperatura da semana
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📊 Temperatura média semanal
 <br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula008_Ex2_JoaoAssaoka.c)
 
 3-) Dada uma sequência de n números inteiros, imprimi-los sem repetições. (Exemplo: para n = 10 e a sequencia 1, 3, 5, 1, 10, 1, 5, 8, 2, 10 o programa deve imprimir a saída 1, 3, 5, 10, 8, 2)
@@ -69,7 +69,7 @@ Em breve...
 
 
 ## Aula 12
-
+Quero melhorar... em breve...
 
 
 ## Aula 13
@@ -77,7 +77,16 @@ Em breve...
 <br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula013_Ex1_JoaoAssaoka.c)
 
 2-) Faça um programa que leia o total gasto pelo cliente de uma loja. Mostre as seguintes opções de pagamento, solicite a opção desejada e imprime o valor total do pagamento.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Opção: a vista com 10% de desconto
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Opção: em duas vezes (preço da etiqueta)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Opção: de 3 até 10 vezes com 3% de juros ao mês (somente para compras acima de R$ 100,00).  OBS: fazer uma função para cada opção. E imprimir na main o valor final da compra.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💰 A vista com 10% de desconto
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💰 Em duas vezes (preço da etiqueta)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💰 De 3 até 10 vezes com 3% de juros ao mês (somente para compras acima de R$ 100,00).  OBS: fazer uma função para cada opção. E imprimir na main o valor final da compra.
 <br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula013_Ex2_JoaoAssaoka.c)
+
+3-) Faça um projeto que contenha main, header e as seguintes funções:
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 preenche_matriz: operação que preenche todos os valores de uma matriz de dimensão m x n informada pelo usuário;
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 encontra_valor: operação que busca um valor X informado pelo usuário na matriz;
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 encontra_maiorvalor: operação que busca o maior valor na matriz;
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 encontra_menorvalor: operação que busca o menor valor na matriz;
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula013_Ex3_JoaoAssaoka.c)
+<br>🔹 [Header.h](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula013_Ex3Header_JoaoAssaoka.h)
+<br>🔹 [Header.c](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula013_Ex3Funcoes_JoaoAssaoka.c)
