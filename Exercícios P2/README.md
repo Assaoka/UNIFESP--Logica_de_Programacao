@@ -65,3 +65,19 @@ Em breve...
 
 3-) [Matriz Quadrada II](https://www.beecrowd.com.br/judge/pt/problems/view/1478)
 <br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula011.1_Ex3_JoaoAssaoka.c)
+
+
+
+## Aula 12
+
+
+
+## Aula 13
+1-) Elabore uma função que receba um vetor contendo N valores e um valor X escolhidos pelo usuário, retorne para a main o número de vezes que esse elemento ocorreu no vetor.
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula013_Ex1_JoaoAssaoka.c)
+
+2-) Faça um programa que leia o total gasto pelo cliente de uma loja. Mostre as seguintes opções de pagamento, solicite a opção desejada e imprime o valor total do pagamento.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Opção: a vista com 10% de desconto
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Opção: em duas vezes (preço da etiqueta)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Opção: de 3 até 10 vezes com 3% de juros ao mês (somente para compras acima de R$ 100,00).  OBS: fazer uma função para cada opção. E imprimir na main o valor final da compra.
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula013_Ex2_JoaoAssaoka.c)
