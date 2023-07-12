@@ -1,4 +1,4 @@
-// Crie um programa em C que peça um número inteiro ao usuário e retorne a soma de todos os números de 1 até o número que o usuário introduziu ou seja: 1 + 2 + 3 + ... + n. Utilize recursividade.
+// 2-) Crie um programa em C que peça um número inteiro ao usuário e retorne a soma de todos os números de 1 até o número que o usuário introduziu ou seja: 1 + 2 + 3 + ... + n. Utilize recursividade.
 #include <stdio.h>
 
 int Soma (int n) {
