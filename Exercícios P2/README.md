@@ -90,3 +90,15 @@ Quero melhorar... em breve...
 <br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula013_Ex3_JoaoAssaoka.c)
 <br>🔹 [Header.h](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula013_Ex3Header_JoaoAssaoka.h)
 <br>🔹 [Header.c](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula013_Ex3Funcoes_JoaoAssaoka.c)
+
+
+
+## Aula 16
+1-) Crie um programa que use recursão para calcular a potência de números naturais.
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula016_Ex1_JoaoAssaoka.c)
+
+2-) Crie um programa em C que peça um número inteiro ao usuário e retorne a soma de todos os números de 1 até o número que o usuário introduziu ou seja: 1 + 2 + 3 + ... + n. Utilize recursividade.
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula016_Ex2_JoaoAssaoka.c)
+
+3-) Faça um programa que calcule divisão usando subtrações sucessivas e recursão.
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula016_Ex3_JoaoAssaoka.c)
