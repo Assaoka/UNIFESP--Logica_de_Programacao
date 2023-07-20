@@ -43,7 +43,7 @@ void Exibir (Banda Bandas[5]) {
 	} while (++i < 5);
 }
 
-int main(void) {
+int main() {
   Banda Bandas[5];
   Preencher(Bandas);
 	Exibir(Bandas);
