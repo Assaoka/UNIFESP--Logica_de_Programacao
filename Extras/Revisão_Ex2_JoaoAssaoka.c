@@ -1,4 +1,4 @@
-// 3) Faça um programa que recebe a data de aniversário de alguém e a data de hoje separada por espaços. Retorne quantos anos a pessoa tem e a parabenize caso seja seu aniversário.
+// 2) Faça um programa que recebe a data de aniversário de alguém e a data de hoje separada por espaços. Retorne quantos anos a pessoa tem e a parabenize caso seja seu aniversário.
 
 #include <stdio.h>
 
