@@ -26,7 +26,11 @@
 
 
 ## Aula 9
-Em breve...
+1-) Faça um programa para calcular o fatorial de um número qualquer.
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula009_Ex1_JoaoAssaoka.c)
+
+2-) Faça um programa para resolver o seguinte problema: Dados um número inteiro n > 0 e uma sequência com n números inteiros, determinar o menor e o maior número da sequência. Por exemplo, para n=6 e para a sequência com 6 números inteiros = {6 −27 0 −5 84 -33} o seu programa deve escrever o número -33.
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula009_Ex2_JoaoAssaoka.c)
 
 
 
@@ -69,7 +73,15 @@ Em breve...
 
 
 ## Aula 12
-Quero melhorar... em breve...
+1-) Dada uma sequência de caracteres representando um texto, determinar a frequência relativa de vogais no texto (por exemplo, no texto “Em terra de cego quem tem um olho é caolho”, essa frequência é 16 vogais/42 caracteres).
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula012_Ex1_JoaoAssaoka.c)
+
+2-) Fazer um programa de “criptografia” (codificação de dados visando a privacidade de acesso às informações), onde dada uma string (vetor de caracteres) este programa codifique os dados através de um processo de substituição de letras. Implemente uma função que recebe o vetor de palavras e criptografe a frase substituindo cada caractere por 3 caracteres adjacentes a ele. Ex: “bom dia” -> mensagem criptografada = erp#gld
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula012_Ex2_JoaoAssaoka.c)
+
+3-) Faça um programa que leia uma string do teclado e diga se ela é palíndromo. Uma string é palíndromo quando pode ser lida tanto de trás pra frente quanto de frente para trás e possui exatamente a mesma sequência de caracteres. Ex.: ROMA É AMOR, arara, Anotaram a data da maratona
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula012_Ex3_JoaoAssaoka.c)
+
 
 
 ## Aula 13
@@ -90,6 +102,20 @@ Quero melhorar... em breve...
 <br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula013_Ex3_JoaoAssaoka.c)
 <br>🔹 [Header.h](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula013_Ex3Header_JoaoAssaoka.h)
 <br>🔹 [Header.c](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula013_Ex3Funcoes_JoaoAssaoka.c)
+
+
+## Aula 14
+1) Faça um programa que, dado um inteiro n e uma matriz quadrada de ordem n, cujos elementos são todos inteiros positivos, imprime uma tabela onde os elementos são listados em ordem decrescente, acompanhados da indicação de linha e coluna a que pertencem. Havendo repetições de elementos na matriz, a ordem é irrelevante.
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula014_Ex1_JoaoAssaoka.c)
+
+3) Escreva um programa usando função e ponteiros que recebe vários números inteiros até que o usuário insira o caractere ‘0’ e devolve o seu primeiro dígito, seu último dígito e altera o valor de n removendo seu primeiro e último dígitos. 
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula014_Ex2_JoaoAssaoka.c)
+
+
+
+## Aula 15
+1) Defina uma estrutura que irá representar bandas de música. Essa estrutura deve ter o nome da banda, que tipo de música ela toca, o número de integrantes e em que posição do ranking essa banda está dentre as suas 5 bandas favoritas. Crie um looping para preencher  5 estruturas de bandas. Após criar e preencher, exiba todas as informações das bandas/estruturas.
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula015_Ex1_JoaoAssaoka.c)
 
 
 
