@@ -1,4 +1,4 @@
-// 2) Fazer um programa de “criptografia” (codificação de dados visando a privacidade de acesso às informações), onde dada uma string (vetor de caracteres) este programa codifique os dados através de um processo de substituição de letras. Implemente uma função que recebe o vetor de palavras e criptografe a frase substituindo cada caractere por 3 caracteres adjacentes a ele. Ex: “bom dia” -> mensagem criptografada = erp#gld
+// 2-) Fazer um programa de “criptografia” (codificação de dados visando a privacidade de acesso às informações), onde dada uma string (vetor de caracteres) este programa codifique os dados através de um processo de substituição de letras. Implemente uma função que recebe o vetor de palavras e criptografe a frase substituindo cada caractere por 3 caracteres adjacentes a ele. Ex: “bom dia” -> mensagem criptografada = erp#gld
 
 #include <stdio.h>
 
