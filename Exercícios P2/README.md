@@ -6,10 +6,10 @@
 <br>🔹 [Aula 11](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P2#aula-11) (24/05/2023)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Aula 11.1](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P2#beecrowd-1) (26/05/2023)
 <br>🔹 [Aula 12](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P2#aula-12) (26/05/2023)
-<br>🔹 [Aula 13](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P2#aula-12) (02/06/2023)
-<br>🔹 [Aula 14](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P2#aula-12) (07/06/2023)
-<br>🔹 [Aula 15](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P2#aula-12) (16/06/2023)
-<br>🔹 [Aula 16](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P2#aula-12) (07/07/2023)
+<br>🔹 [Aula 13](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P2#aula-13) (02/06/2023)
+<br>🔹 [Aula 14](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P2#aula-14) (07/06/2023)
+<br>🔹 [Aula 15](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P2#aula-15) (16/06/2023)
+<br>🔹 [Aula 16](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main/Exerc%C3%ADcios%20P2#aula-16) (07/07/2023)
 
 ## Aula 8
 1-) Leia dois vetores A e B (de tamanho 10 cada um).  Depois faça duas funções que calcule:
