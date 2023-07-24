@@ -1,4 +1,4 @@
-// 9) Defina uma estrutura que irá representar bandas de música. Essa estrutura deve ter o nome da banda, que tipo de música ela toca, o número de integrantes e em que posição do ranking essa banda está dentre as suas 5 bandas favoritas. Crie um looping para preencher  5 estruturas de bandas. Após criar e preencher, exiba todas as informações das bandas/estruturas.
+// 1-) Defina uma estrutura que irá representar bandas de música. Essa estrutura deve ter o nome da banda, que tipo de música ela toca, o número de integrantes e em que posição do ranking essa banda está dentre as suas 5 bandas favoritas. Crie um looping para preencher  5 estruturas de bandas. Após criar e preencher, exiba todas as informações das bandas/estruturas.
 
 #include <stdio.h>
 
