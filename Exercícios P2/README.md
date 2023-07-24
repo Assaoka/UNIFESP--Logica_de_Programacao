@@ -57,18 +57,15 @@
 3-) Use comando de repetição para desenhar na tela um retângulo de 60 colunas e 10 linhas, sendo que a borda deste retângulo será formada pelo caractere ‘+’. Lembre que somente a primeira e última linha deverão ter todas as colunas preenchidas com o caractere ‘+’. As demais linhas (entre 2 e 9) só terão as colunas 1 e 60 preenchidas. 
 <br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula011_Ex3_JoaoAssaoka.c)
 
+### BeeCrowd
+4-) [Acima da Diagonal Principal](https://www.beecrowd.com.br/judge/pt/problems/view/1183)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula011_Ex4_JoaoAssaoka.c)
 
+5-) [Abaixo da Diagonal Secundária](https://www.beecrowd.com.br/judge/pt/problems/view/1186)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula011_Ex5_JoaoAssaoka.c)
 
-## Aula 11.1
-### BeeCrowd:
-1-) [Acima da Diagonal Principal](https://www.beecrowd.com.br/judge/pt/problems/view/1183)
-<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula011.1_Ex1_JoaoAssaoka.c)
-
-2-) [Abaixo da Diagonal Secundária](https://www.beecrowd.com.br/judge/pt/problems/view/1186)
-<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula011.1_Ex2_JoaoAssaoka.c)
-
-3-) [Matriz Quadrada II](https://www.beecrowd.com.br/judge/pt/problems/view/1478)
-<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula011.1_Ex3_JoaoAssaoka.c)
+6-) [Matriz Quadrada II](https://www.beecrowd.com.br/judge/pt/problems/view/1478)
+<br>🔹 [Minha Resolução](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Exerc%C3%ADcios%20P2/Aula011_Ex6_JoaoAssaoka.c)
 
 
 
