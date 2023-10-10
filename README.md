@@ -1,5 +1,4 @@
-# Olá! Seja bem-vindo!
-## Sobre o Repositório:
+<h1  align="center"> Olá! Bem-vindo ao Repositório <br>de Lógica de Programação </h1>
 <p align="justify">
 &emsp;&emsp; Criei esse repositório para postar os projetos que estou desenvolvendo durante minha jornada de aprendizado em C. Pretendo postar exercícios propostos das aulas que estou vendo e as minhas resoluções para esses exercícios. Será uma maneira de documentar meu aprendizado e acompanhar minha evolução ao longo do tempo.
 <br>&emsp;&emsp; Agradeço por acompanhar minha jornada de aprendizado em C, espero que esses projetos possam ser úteis para outros estudantes que também estão aprendendo C, fornecendo exemplos práticos e inspiração para seus próprios projetos.
