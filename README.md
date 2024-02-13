@@ -1,5 +1,13 @@
 <h1  align="center"> Olá! Bem-vindo ao Repositório <br>de Lógica de Programação </h1>
 <p align="justify">
+
+**Este repositório está sendo reformulado com o intuito de ser um guia de estudos para quem está iniciando na programação. Aqui você encontrará exercícios resolvidos e comentados, além de resumos sobre os principais tópicos de lógica de programação.**
+
+
+<br>
+<br>
+<br>
+
 &emsp;&emsp; Criei esse repositório para postar os projetos que estou desenvolvendo durante minha jornada de aprendizado em C. Pretendo postar exercícios propostos das aulas que estou vendo e as minhas resoluções para esses exercícios. Será uma maneira de documentar meu aprendizado e acompanhar minha evolução ao longo do tempo.
 <br>&emsp;&emsp; Agradeço por acompanhar minha jornada de aprendizado em C, espero que esses projetos possam ser úteis para outros estudantes que também estão aprendendo C, fornecendo exemplos práticos e inspiração para seus próprios projetos.
 <br>&emsp;&emsp; Estou animado para compartilhar meus projetos e interagir com a comunidade, sintam-se a vontade para explorar o repositório, deixar comentários ou sugestões. (Criei um Issues aqui exclusivo para isso, chamado "Chat - Jornada de Aprendizado em C").
