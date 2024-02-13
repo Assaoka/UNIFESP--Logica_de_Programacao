@@ -153,6 +153,20 @@ int main() {
 &emsp;&emsp; Leia seis números (P1, P2, T1, T2, T3, M3) correspondente às notas de um aluno. Calcule as médias M1 e M2 e a NOTA FINAL com pesos 60%, 30% e 10%, respectivamente. Informe a nota final ao aluno.
 
 ~~~c
+#include <stdio.h>
+
+int main() {
+    float P1, P2, T1, T2, T3, M1, M2, M3;
+    
+    scanf(" %f %f %f %f %f %f", &P1, &P2, &T1, &T2, &T3, &M3);
+    M1 = (P1+P2)/2;
+    M2 = (T1+T2+T3)/3;
+    
+    printf("M1 = %f\nM2 = %f\nM3 = %f\n-----------------\nNota Final = %f", M1, M2, M3, (6*M1+3*M2+M3)/10);
+    return 0;
+}
+~~~
+
 
 
 # BeeCrowd:
@@ -200,3 +214,45 @@ int main() {
     return 0;
 }
 ~~~
+
+## 4. [Área - 1012](https://judge.beecrowd.com/pt/problems/view/1012)
+~~~c
+int main() {
+	float A, B, C;
+
+	scanf(" %f %f %f", &A, &B, &C);
+
+	printf("TRIANGULO: %.3f\nCIRCULO: %.3f\nTRAPEZIO: %.3f\nQUADRADO: %.3f\nRETANGULO: %.3f\n",A*C/2,3.14159*C*C,(A+B)*C/2,B*B,A*B);
+	return 0;
+}
+~~~
+
+## 5. [Cédulas - 1018](https://judge.beecrowd.com/pt/problems/view/1018)
+~~~c
+#include <stdio.h>
+
+int main() {
+	int A;
+
+	scanf("%d", &A);
+	
+	printf("%d\n%d nota(s) de R$ 100,00\n%d nota(s) de R$ 50,00\n%d nota(s) de R$ 20,00\n%d nota(s) de R$ 10,00\n%d nota(s) de R$ 5,00\n%d nota(s) de R$ 2,00\n%d nota(s) de R$ 1,00\n",A,A/100,(A%100)/50,((A%100)%50)/20,(((A%100)%50)%20)/10,((((A%100)%50)%20)%10)/5,(((((A%100)%50)%20)%10)%5)/2,((((((A%100)%50)%20)%10)%5)%2));
+	return 0;
+}
+~~~
+
+## 6. [Conversão de Tempo - 1019](https://judge.beecrowd.com/pt/problems/view/1019)
+~~~c
+#include <stdio.h>
+
+int main() {
+	int N;
+
+	scanf(" %d",&N);
+	
+	printf("%d:%d:%d\n",N/3600,(N%3600)/60, (N%3600)%60);
+	return 0;
+}
+~~~
+
+#
