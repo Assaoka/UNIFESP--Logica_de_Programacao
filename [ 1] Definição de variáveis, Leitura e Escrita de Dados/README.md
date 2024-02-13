@@ -40,7 +40,7 @@ tipo nome_da_variavel;
 ~~~c
 int n;
 printf("Digite um número inteiro: ");
-scanf(" %d", &n); # ATENÇÃO: O “&” é utilizado para indicar o endereço da variável. Isso fica mais claro quando estudarmos funções e ponteiros.
+scanf(" %d", &n); // ATENÇÃO: O “&” é utilizado para indicar o endereço da variável. Isso fica mais claro quando estudarmos funções e ponteiros.
 printf("O número digitado foi: %d", n);
 ~~~
 

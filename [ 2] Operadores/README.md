@@ -170,7 +170,7 @@ int main() {
 
 
 # BeeCrowd:
-## 1. [Média 2 - 1006](https://judge.beecrowd.com/pt/problems/view/1006){:target="_blank"}
+## 1. [Média 2 - 1006](https://judge.beecrowd.com/pt/problems/view/1006)
 ~~~c
 #include <stdio.h>
 
@@ -184,7 +184,7 @@ int main() {
 
 
 
-## 2. [Salário - 1008](https://judge.beecrowd.com/pt/problems/view/1008){:target="_blank"}
+## 2. [Salário - 1008](https://judge.beecrowd.com/pt/problems/view/1008)
 ~~~c
 #include <stdio.h>
 
@@ -198,7 +198,7 @@ int main() {
 }
 ~~~
 
-## 3. [Idade em Dias - 1020](https://judge.beecrowd.com/pt/problems/view/1020){:target="_blank"}
+## 3. [Idade em Dias - 1020](https://judge.beecrowd.com/pt/problems/view/1020)
 ~~~c
 #include <stdio.h>
 
@@ -215,7 +215,7 @@ int main() {
 }
 ~~~
 
-## 4. [Área - 1012](https://judge.beecrowd.com/pt/problems/view/1012){:target="_blank"}
+## 4. [Área - 1012](https://judge.beecrowd.com/pt/problems/view/1012)
 ~~~c
 int main() {
 	float A, B, C;
@@ -227,7 +227,7 @@ int main() {
 }
 ~~~
 
-## 5. [Cédulas - 1018](https://judge.beecrowd.com/pt/problems/view/1018){:target="_blank"}
+## 5. [Cédulas - 1018](https://judge.beecrowd.com/pt/problems/view/1018)
 ~~~c
 #include <stdio.h>
 
@@ -241,7 +241,7 @@ int main() {
 }
 ~~~
 
-## 6. [Conversão de Tempo - 1019](https://judge.beecrowd.com/pt/problems/view/1019){:target="_blank"}
+## 6. [Conversão de Tempo - 1019](https://judge.beecrowd.com/pt/problems/view/1019)
 ~~~c
 #include <stdio.h>
 
