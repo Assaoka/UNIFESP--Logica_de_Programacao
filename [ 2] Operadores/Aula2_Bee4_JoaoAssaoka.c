@@ -1,4 +1,4 @@
-// Aula 2 - BeeCrowd 4 - João Assaoka
+// Aula 2 - Beecrowd 4 - João Assaoka
 // Área - 1012
 #include <stdio.h>
 

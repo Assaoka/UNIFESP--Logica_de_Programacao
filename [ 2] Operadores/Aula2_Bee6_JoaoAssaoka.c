@@ -1,3 +1,5 @@
+// Aula 2 - Beecrowd 6 - João Assaoka
+// Conversão de Tempo - 1019
 #include <stdio.h>
 
 int main() {

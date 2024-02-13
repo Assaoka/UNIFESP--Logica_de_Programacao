@@ -1,4 +1,4 @@
-// Aula 2 - BeeCrowd 2 - João Assaoka
+// Aula 2 - Beecrowd 2 - João Assaoka
 // Salário - 1008
 #include <stdio.h>
 

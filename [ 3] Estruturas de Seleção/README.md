@@ -247,4 +247,87 @@ int main() {
 
 
 # BeeCrowd:
-## 1. [Teste de Seleção 1](https://judge.beecrowd.com/pt/problems/view/1035)
+## 1. [Teste de Seleção 1 - 1035](https://judge.beecrowd.com/pt/problems/view/1035)
+~~~c
+#include <stdio.h>
+
+int main() {
+	int A, B, C, D;
+	
+	scanf(" %d %d %d %d", &A, &B, &C, &D);
+	
+	if ((((((B>C)&&(D>A))&&((C+D)>(A+B)))&&(C>0))&&(D>0))&&((A%2)==0))
+		printf("Valores aceitos\n");
+	else
+		printf("Valores nao aceitos\n");
+	return 0;
+}
+~~~
+
+## 2. [Lanche - 1038](https://judge.beecrowd.com/pt/problems/view/1038)
+~~~c
+#include <stdio.h>
+
+int main() {
+	int C, N;
+	
+	scanf(" %d %d",&C,&N);
+	
+	switch (C) {
+		case 1:
+			printf("Total: R$ %.2f\n",4.0*N); 
+			break;  
+		case 2:
+			printf("Total: R$ %.2f\n",4.5*N); 
+			break;  
+		case 3: 
+			printf("Total: R$ %.2f\n",5.0*N); 
+			break;  
+		case 4: 
+			printf("Total: R$ %.2f\n",2.0*N); 
+			break;  
+		case 5: 
+			printf("Total: R$ %.2f\n",1.5*N); 
+			break;  
+	}
+	return 0;
+}
+~~~
+
+## 3. [Tipos de Triângulos - 1045](https://judge.beecrowd.com/pt/problems/view/1045)
+~~~c
+#include <stdio.h>
+
+int main() {
+	double  A, B, C, Temp;
+	
+	scanf(" %lf %lf %lf", &A, &B, &C);
+
+	// Ordenando em ordem decrescente:
+	if (B > A)
+		Temp = B, B = A, A = Temp; // Observe que quando o if possui apenas uma linha, não é necessário usar chaves.
+	if (C > A)
+		Temp = C, C = A, A = Temp;
+	if (C > B)
+		Temp = C, C = B, B = Temp;
+
+	// Resposta:
+	if (A >= (B+C)) printf("NAO FORMA TRIANGULO\n"); // Outra coisa que pode ser feita é subir a linha caso o if tenha apenas uma linha.
+	else {
+		if ((A*A) == (B*B + C*C))
+			printf("TRIANGULO RETANGULO\n");
+		else if ((A*A) > (B*B + C*C))
+			printf("TRIANGULO OBTUSANGULO\n");
+		else if ((A*A) < (B*B + C*C))
+			printf("TRIANGULO ACUTANGULO\n");
+		
+		if ((A==B)&&(A==C))
+			printf("TRIANGULO EQUILATERO\n");
+		else if ((A==B)||(A==C)||(B==C))
+			printf("TRIANGULO ISOSCELES\n");
+	}
+	return 0;
+}
+~~~
+
+#

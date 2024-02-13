@@ -3,7 +3,7 @@
 #include <math.h>
 #include <locale.h>
 
-int main(void) {
+int main() {
 // Variáveis:
   // Variáveis Base:
     int ValorFuncao; // Representa o que o usuário que usar.

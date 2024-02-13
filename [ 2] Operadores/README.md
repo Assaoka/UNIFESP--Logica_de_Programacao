@@ -90,15 +90,15 @@ int main () {
 
 
 # Operadores Lógicos:
-&emsp;&emsp; Os operadores lógicos são utilizados para combinar duas ou mais expressões condicionais. Eles são utilizados para verificar se duas ou mais condições são verdadeiras ou falsas. Os operadores lógicos são os seguintes:
+&emsp;&emsp; Os operadores lógicos são utilizados para combinar duas expressões condicionais. Eles são utilizados para verificar se duas condições são verdadeiras ou falsas. Os operadores lógicos são os seguintes:
 
 | Operador | Descrição                                                                        |
 | -------- | -------------------------------------------------------------------------------- |
 | `&&`     | Retorna verdadeiro se ambas as expressões condicionais forem verdadeiras.        |
 | `\|\|`   | Retorna verdadeiro se pelo menos uma das expressões condicionais for verdadeira. |
-| `!`      | Retorna verdadeiro se a expressão condicional for falsa.                         |
+| `!`      | Retorna o inverso da expressão condicional. (V ➡ F, F ➡ V).                    |
 
-## | Tabela Verdade:
+## | Tabela Verdade (E/OU):
 <img src="./Bob%20Esponja.png" alt="Tabela Verdade" width="100%"/>
 
 

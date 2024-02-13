@@ -1,4 +1,4 @@
-// Aula 2 - BeeCrowd 3 - João Assaoka
+// Aula 2 - Beecrowd 3 - João Assaoka
 // Idade em Dias - 1020
 #include <stdio.h>
 

@@ -1,4 +1,4 @@
-// Aula 2 - BeeCrowd 5 - João Assaoka
+// Aula 2 - Beecrowd 5 - João Assaoka
 // Cédulas - 1018
 #include <stdio.h>
 

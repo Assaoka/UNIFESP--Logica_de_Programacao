@@ -1,4 +1,4 @@
-// Aula 2 - BeeCrowd 1 - João Assaoka
+// Aula 2 - Beecrowd 1 - João Assaoka
 // Média 2 - 1006
 #include <stdio.h>
 
