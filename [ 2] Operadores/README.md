@@ -14,7 +14,7 @@
 
 `ATENÇÃO:` A divisão entre dois números inteiros sempre resulta em um número inteiro (Mesmo que o resultado seja armazenado em uma variável do tipo float/double). Se você deseja que o resultado seja um número decimal, pelo menos um dos números deve ser decimal. Por exemplo:
 
-~~~
+~~~c
 #include <stdio.h>
 int main () {
     int A, B;
@@ -170,7 +170,7 @@ int main() {
 
 
 # BeeCrowd:
-## 1. [Média 2 - 1006](https://judge.beecrowd.com/pt/problems/view/1006)
+## 1. [Média 2 - 1006](https://judge.beecrowd.com/pt/problems/view/1006){:target="_blank"}
 ~~~c
 #include <stdio.h>
 
@@ -184,7 +184,7 @@ int main() {
 
 
 
-## 2. [Salário - 1008](https://judge.beecrowd.com/pt/problems/view/1008)
+## 2. [Salário - 1008](https://judge.beecrowd.com/pt/problems/view/1008){:target="_blank"}
 ~~~c
 #include <stdio.h>
 
@@ -198,7 +198,7 @@ int main() {
 }
 ~~~
 
-## 3. [Idade em Dias - 1020](https://judge.beecrowd.com/pt/problems/view/1020)
+## 3. [Idade em Dias - 1020](https://judge.beecrowd.com/pt/problems/view/1020){:target="_blank"}
 ~~~c
 #include <stdio.h>
 
@@ -215,7 +215,7 @@ int main() {
 }
 ~~~
 
-## 4. [Área - 1012](https://judge.beecrowd.com/pt/problems/view/1012)
+## 4. [Área - 1012](https://judge.beecrowd.com/pt/problems/view/1012){:target="_blank"}
 ~~~c
 int main() {
 	float A, B, C;
@@ -227,7 +227,7 @@ int main() {
 }
 ~~~
 
-## 5. [Cédulas - 1018](https://judge.beecrowd.com/pt/problems/view/1018)
+## 5. [Cédulas - 1018](https://judge.beecrowd.com/pt/problems/view/1018){:target="_blank"}
 ~~~c
 #include <stdio.h>
 
@@ -241,7 +241,7 @@ int main() {
 }
 ~~~
 
-## 6. [Conversão de Tempo - 1019](https://judge.beecrowd.com/pt/problems/view/1019)
+## 6. [Conversão de Tempo - 1019](https://judge.beecrowd.com/pt/problems/view/1019){:target="_blank"}
 ~~~c
 #include <stdio.h>
 
