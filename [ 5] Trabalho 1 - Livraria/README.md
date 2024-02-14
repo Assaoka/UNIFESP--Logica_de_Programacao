@@ -39,6 +39,7 @@
 <br>🔹 [Vídeo Explicação](https://drive.google.com/file/d/1RIhuWVsdZ2CY38xn-IfFWomYaePu5QrQ/view?usp=drive_link)
 
 ## Arquivos:
+
 🔹 [BaseTrabalho.c](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/blob/main/Trabalhos/Trabalho%201/BaseTrabalho.c)
 
 🔹 Arquivos de Texto:
