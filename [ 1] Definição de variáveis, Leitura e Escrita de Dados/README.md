@@ -44,6 +44,8 @@ scanf(" %d", &n); // ATENÇÃO: O “&” é utilizado para indicar o endereço 
 printf("O número digitado foi: %d", n);
 ~~~
 
+# Manipulação de Arquivos:
+&emsp;&emsp; Tenho um resumo sobre o assunto no repositório de [Algortimos e Estruturas de Dados](https://github.com/Assaoka/UNIFESP--Algoritmos_e_Estruturas_de_Dados_I/tree/main/Aulas/%5B%20%204%20%5D%20Manipula%C3%A7%C3%A3o%20de%20Arquivos). Caso queira, pode dar uma olhada lá.
 
 
 # Exercícios:
