@@ -125,7 +125,58 @@ int main() {
 
 
 # Exercícios:
-## 1. Dois jogadores irão fazer a seguinte disputa: Uma moeda será lançada 10 vezes. Quando der cara o jogador1 faz um ponto. Quando der coroa o jogador2 faz um ponto. Faça um programa que simule 10 jogadas com a função rand(), considere que 0 é cara e 1 é coroa. No final indique o jogador vencedor.
+## 1. Faça um programa para calcular o fatorial de um número qualquer.
+~~~c
+#include <stdio.h>
+
+int main() {
+	int i, fatorial = 1;
+	scanf(" %d", &i);
+
+	for (int j = 1; j <= i; j++) {
+		fatorial *= j;
+		printf("j = %d   Fat = %d\n", j, fatorial);
+	}
+
+	printf("\nFatorial de %d = %d\n", i, fatorial);
+	return 0;
+}
+~~~
+
+## 2. Escreva um programa que pergunta um número ao usuário, e mostra sua tabuada completa (de 1 até 10).
+~~~c
+#include <stdio.h>
+
+int main() {
+	int n;
+	
+	printf("Digite um número: "), scanf(" %d", &n);
+	printf("\n----- Tabuada -----");
+	
+	for (int i = 1; i <= 10; i++)
+		printf("\n%d * %d = %d", i, n, n*i);
+	
+	printf("\n-------------------\n");
+	return 0;
+}
+~~~
+
+## 3. Use comando de repetição para desenhar na tela um retângulo de 60 colunas e 10 linhas, sendo que a borda deste retângulo será formada pelo caractere ‘+’. Lembre que somente a primeira e última linha deverão ter todas as colunas preenchidas com o caractere ‘+’. As demais linhas (entre 2 e 9) só terão as colunas 1 e 60 preenchidas.
+~~~c
+#include <stdio.h>
+
+int main() {
+	for (int i = 0; i < 10; i++) {
+		for (int j = 0; j < 60; j++)
+			if ((j == 0)||(j == 59)||(i == 0)||(i == 9)) printf("+");
+			else printf(" ");
+		printf("\n");
+	}
+	return 0;
+}
+~~~
+
+## 4. Dois jogadores irão fazer a seguinte disputa: Uma moeda será lançada 10 vezes. Quando der cara o jogador1 faz um ponto. Quando der coroa o jogador2 faz um ponto. Faça um programa que simule 10 jogadas com a função rand(), considere que 0 é cara e 1 é coroa. No final indique o jogador vencedor.
 ~~~c
 #include <stdio.h> // Entrada e Saída de informações.
 #include <stdlib.h> // Sorteios.
@@ -185,25 +236,7 @@ int main () {
 }
 ~~~
 
-## 2. Escreva um programa que pergunta um número ao usuário, e mostra sua tabuada completa (de 1 até 10).
-~~~c
-#include <stdio.h>
-
-int main() {
-	int n;
-	
-	printf("Digite um número: "), scanf(" %d", &n);
-	printf("\n----- Tabuada -----");
-	
-	for (int i = 1; i <= 10; i++)
-		printf("\n%d * %d = %d", i, n, n*i);
-	
-	printf("\n-------------------\n");
-	return 0;
-}
-~~~
-
-## 3. Um determinado material perde metade de sua massa a cada 30 segundos. Dada a massa inicial informada pelo usuário, em gramas, fazer um programa em C que calcule o tempo necessário para que essa massa se torne menor que 1 grama. O programa em C deve escrever a massa inicial, a massa final e o tempo calculado em horas, minutos e segundos.
+## 5. Um determinado material perde metade de sua massa a cada 30 segundos. Dada a massa inicial informada pelo usuário, em gramas, fazer um programa em C que calcule o tempo necessário para que essa massa se torne menor que 1 grama. O programa em C deve escrever a massa inicial, a massa final e o tempo calculado em horas, minutos e segundos.
 ~~~c
 #include <stdio.h>
 
