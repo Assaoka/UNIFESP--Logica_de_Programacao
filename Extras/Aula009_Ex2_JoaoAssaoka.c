@@ -2,15 +2,21 @@
 
 #include <stdio.h>
 
-int main(void) {
-  int V[100], N, i = 0, menor = 777777;
+int main() {
+	int V[100], N, i = 0, menor = 777777;
 
-  scanf(" %d", &N);
-  do {
-    scanf(" %d", &V[i]);
-    if (menor > V[i])
-      menor = V[i];
-    printf("N = %d, i = %d, menor = %d\n", N, i , menor);
-  } while (++i<N);
-  return 0;
+	scanf(" %d", &N);
+	for (int i = 0; i < N; i++) {
+		scanf(" %d", &V[i]);
+		if (menor > V[i])
+			menor = V[i];
+	}
+
+	do {
+		scanf(" %d", &V[i]);
+		if (menor > V[i])
+			menor = V[i];
+		printf("N = %d, i = %d, menor = %d\n", N, i , menor);
+	} while (++i<N);
+	return 0;
 }
